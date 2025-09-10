@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm jianlang
 
-<!--
-**jianlang829/jianlang829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
+
+---
+
+📫 Reach me:  
+🐦 Twitter: 
