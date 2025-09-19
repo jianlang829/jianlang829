@@ -29,10 +29,13 @@
 
 ## 🔥 Streak Stats
 
-![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
 
+---
 ## 📫 Reach me:
 
 🐦 [Twitter](https://twitter.com/)
-📧 Email: 656269236@qq.com
+
+📧 Emaill: 656269236@qq.com
+
 💼 [LinkedIn](https://linkedin.com/)
