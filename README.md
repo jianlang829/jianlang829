@@ -25,7 +25,7 @@
 </a>
 
 
-| <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true" /></a> | <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true" /></a> | <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
