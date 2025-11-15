@@ -21,13 +21,13 @@
 ## 📌 精选项目 {#精选项目}
 
 <a href="https://github.com/jianlang829/awesome-Book-of-Destiny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=buefy" />
 </a>
 <a href="https://github.com/jianlang829/Awesome-Windows-Laptop-Network-Optimizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=buefy" />
 </a>
 <a href="https://github.com/jianlang829/awesome-Math-and-Computer-Sci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=buefy" />
 </a>
 ---
 
