@@ -31,7 +31,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
 
 <div align="right">
   <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email"/></a>
