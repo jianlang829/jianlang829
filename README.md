@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm jianlang
 
-> Passionate about building scalable web solutions and contributing to the open-source community
+> 热衷于为开源社区做出贡献
 
 ---
 
