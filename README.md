@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical" />
 </a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
