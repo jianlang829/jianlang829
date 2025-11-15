@@ -21,14 +21,15 @@
 ## 📌 精选项目 {#精选项目}
 
 <a href="https://github.com/jianlang829/awesome-Book-of-Destiny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=radical" />
 </a>
 <a href="https://github.com/jianlang829/Awesome-Windows-Laptop-Network-Optimizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=radical" />
 </a>
 <a href="https://github.com/jianlang829/awesome-Math-and-Computer-Sci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical" />
 </a>
+
 ---
 
 ## 📊 GitHub数据统计 
@@ -42,6 +43,5 @@
 
 
 <div align="right">
-  <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email" title="656269236@qq.com"/></a>
-  <span style="color:#bbb; margin-left:8px;"></span>
+  <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email"/></a>
 </div>
