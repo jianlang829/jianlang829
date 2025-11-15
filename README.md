@@ -12,19 +12,19 @@
 
 
 <a href="https://github.com/jianlang829/awesome-Book-of-Destiny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/jianlang829/Awesome-Windows-Laptop-Network-Optimizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/jianlang829/awesome-Math-and-Computer-Sci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical&hide_border=true" />
 </a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical&hide_border=true)
 
 <div align="right">
   <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email"/></a>
