@@ -15,21 +15,20 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/jianlang829/awesome-Book-of-Destiny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Book-of-Destiny&theme=radical" />
 </a>
 <a href="https://github.com/jianlang829/Awesome-Windows-Laptop-Network-Optimizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=Awesome-Windows-Laptop-Network-Optimizer&theme=radical" />
 </a>
 <a href="https://github.com/jianlang829/awesome-Math-and-Computer-Sci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianlang829&repo=awesome-Math-and-Computer-Sci&theme=radical" />
 </a>
 
 
-| <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true" /></a> | <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true" /></a> <a href="https://github.com/jianlang829/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical&bg_color=0D1117)
 
 ![Streak](https://streak-stats.demolab.com?user=jianlang829&theme=radical)
 
