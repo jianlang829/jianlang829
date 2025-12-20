@@ -16,15 +16,12 @@
 <code><img height="40" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<a href="https://jianlang829.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> 
+
 
 <a href="https://jianlang829.github.io"><img src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true" /></a>  
 
-
-<a href="https://jianlang829.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> 
-
-  
 </div>
-
 
 <div align="right">
   <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email"/></a>
