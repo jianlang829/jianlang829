@@ -1,6 +1,6 @@
 <div align="center">
   <div style="transition: transform 0.3s ease;">
-    <a href="https://jianlang829.github.io"><img src="plots/2025-11-16_05-43-49.jpg" alt="I'm jianlang" width="99%" loading="lazy" style="transition:all 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,255,255,0.1)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" /></a>
+    <a href="https://github.com/jianlang829/"><img src="plots/2025-11-16_05-43-49.jpg" alt="I'm jianlang" width="99%" loading="lazy" style="transition:all 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 20px rgba(255,255,255,0.1)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" /></a>
 
   </div>
 </div>
@@ -16,13 +16,10 @@
 <code><img height="40" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<a href="https://jianlang829.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianlang829&layout=compact&theme=radical" /></a> 
-
-
-<a href="https://jianlang829.github.io"><img src="https://github-readme-stats.vercel.app/api?username=jianlang829&show_icons=true&theme=radical&bg_color=0D1117&include_all_commits=true" /></a>  
 
 </div>
 
 <div align="right">
-  <a href="mailto:3336582764@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/QQ邮箱-FF6B6B?style=for-the-badge&logo=qq&logoColor=white&backgroundColor=2D1B69" alt="Email"/></a>
-</div>
+<a href="https://gitee.com/qhi89" class="hover-effect"><img src="https://img.shields.io/badge/code-更新更及时-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/></a>
+<a href="mailto:656269236@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/contact-QQ邮箱-0072BB?style=for-the-badge&logo=tencentqq&logoColor=white" alt="Email"/></a>
+<a href="https://raw.githubusercontent.com/jianlang829/123/refs/heads/main/about_me_ok.txt" class="hover-effect"><img src="https://img.shields.io/badge/aboutme-个人介绍-9B59B6?style=for-the-badge&logo=about.me&logoColor=white" alt="Aboutme"/></a></div>
