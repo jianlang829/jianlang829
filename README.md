@@ -20,6 +20,7 @@
 </div>
 
 <div align="right">
-<a href="https://gitee.com/qhi89" class="hover-effect"><img src="https://img.shields.io/badge/code-更新更及时-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/></a>
-<a href="mailto:656269236@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/contact-QQ邮箱-0072BB?style=for-the-badge&logo=tencentqq&logoColor=white" alt="Email"/></a>
-<a href="https://raw.githubusercontent.com/jianlang829/123/refs/heads/main/about_me_ok.txt" class="hover-effect"><img src="https://img.shields.io/badge/aboutme-个人介绍-9B59B6?style=for-the-badge&logo=about.me&logoColor=white" alt="Aboutme"/></a></div>
+<a href="https://gitee.com/qhi89" class="hover-effect"><img src="https://img.shields.io/badge/Gitee-更新更及时-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee"/></a>
+<a href="mailto:656269236@qq.com" class="hover-effect"><img src="https://img.shields.io/badge/Email-QQ邮箱-0072BB?style=for-the-badge&logo=tencentqq&logoColor=white" alt="Email"/></a>
+<a href="https://raw.githubusercontent.com/jianlang829/123/refs/heads/main/about_me_ok.txt" class="hover-effect"><img src="https://img.shields.io/badge/About-个人介绍-9B59B6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About"/></a>
+</div>
